@@ -1,0 +1,43 @@
+10
+
+dir
+10612
+svn://10.0.0.99/testing/COLT%20SmokeTest/src
+svn://10.0.0.99
+
+
+
+2014-06-02T20:10:38.927723Z
+10612
+dclaros
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+25134049-5065-4c57-b640-6c437241ac4a
+
+config
+dir
+
+datatable
+dir
+
+reports
+dir
+
+testscript
+dir
+
+util
+dir
+
